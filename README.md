@@ -26,10 +26,8 @@
 
 ## 👩‍💻 About Me  
 ✨ **EduQual Level 6 – AI Ops & DevOps** graduate  
-🛠 Specializing in **Multi-Tenant Observability** & **Cloud Automation**  
 🔐 Passionate about **Secure, Scalable, Automated Platforms**  
 ⚡ Skilled in **OpenTelemetry, Grafana, Tempo, Cortex, Kubernetes, AWS, IBM Cloud, Terraform**  
-📚 Currently learning **Cybersecurity** + **Cloud & Big Data**  
 📬 Email me at **momnashahid17@gmail.com**  
 
 ---
