@@ -19,7 +19,7 @@
 
 <!-- Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="320" alt="Coding animation">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="260" alt="Coding animation">
 </p>
 
 ---
@@ -92,9 +92,9 @@ Text classification using Transformers & TF-IDF
 ## 📈 Contribution Graph
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=momna-shahid17&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
+  src="https://github-readme-activity-graph.vercel.app/graph?username=momna-shahid17&theme=tokyo-night&hide_border=true&area=true&v=2"
+  alt="GitHub Activity Graph"
+/>
 </p>
 
 ---
