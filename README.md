@@ -56,25 +56,48 @@ Text classification using Transformers & TF-IDF
 
 ## 🏆 Achievements & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=momna-shahid17&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=momna-shahid17&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momna-shahid17&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momna-shahid17&theme=radical" alt="GitHub Streak Stats" />
+  <!-- Overall stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=momna-shahid17&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true"
+    alt="Momna's GitHub Stats"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=momna-shahid17&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Streak stats -->
+  <img
+    src="https://streak-stats.demolab.com?user=momna-shahid17&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+<p align="center">
+  <!-- Top languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=momna-shahid17&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momna-shahid17&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=momna-shahid17&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
@@ -92,3 +115,4 @@ Text classification using Transformers & TF-IDF
 ---
 
 > 🌟 _“Automation is great — but observability makes it trustworthy.”_
+
