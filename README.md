@@ -69,15 +69,15 @@ Text classification using Transformers & TF-IDF
 <p align="center">
   <!-- Overall stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=momna-shahid17&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=momna-shahid17&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&v=2"
     alt="Momna's GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <!-- Streak stats -->
+  <!-- Streak stats (new official domain + cache-buster) -->
   <img
-    src="https://streak-stats.demolab.com?user=momna-shahid17&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    src="https://streak-stats.demolab.com?user=momna-shahid17&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=2"
     alt="GitHub Streak Stats"
   />
 </p>
@@ -85,12 +85,11 @@ Text classification using Transformers & TF-IDF
 <p align="center">
   <!-- Top languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=momna-shahid17&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=momna-shahid17&layout=compact&theme=tokyonight&hide_border=true&v=2"
     alt="Top Languages"
   />
 </p>
 
----
 
 ## 📈 Contribution Graph
 <p align="center">
