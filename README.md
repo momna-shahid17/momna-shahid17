@@ -39,19 +39,6 @@
 
 ---
 
-## 📌 Featured Projects
-### 1️⃣ Multi-Tenant SaaS Observability Platform  
-OpenTelemetry + Tempo + Cortex across **AWS & IBM Cloud**  
-`RBAC • Tenancy • Cost-efficient traces • S3/COS storage`  
-
-### 2️⃣ Medical Diagnosis AI (CNN)  
-Pneumonia detection from chest X-rays with TensorFlow/Keras  
-
-### 3️⃣ Fake News Detection (NLP)  
-Text classification using Transformers & TF-IDF  
-
----
-
 ## 🏆 Achievements & Trophies
 <p align="center">
   <img
