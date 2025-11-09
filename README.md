@@ -51,7 +51,7 @@ It showcases secure, automated, and scalable deployment pipelines for modern clo
 - **Security & Observability:** Integrated with best practices for DevSecOps  
 
 <p align="center">
-  <img src="https://github.com/momna-shahid17/ci-cd-pipeline-project/blob/main/assets/cicd-diagram.png" alt="CI/CD Pipeline Diagram" width="700"/>
+  <img src="https://github.com/momna-shahid17/ci-cd-pipeline-project/diagrams/Archietecture Simple.png" alt="CI/CD Pipeline Diagram" width="700"/>
 </p>
 
 ---
