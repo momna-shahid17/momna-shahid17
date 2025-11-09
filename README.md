@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://github.com/momna-shahid17/momna-shahid17/blob/main/banner.png" alt="Momna Shahid — DevOps & Cloud Engineer Banner" width="100%"/>
+</p>
+
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm <span style="color:#58A6FF;">Momna Shahid</span> 👋</h1>
 <h3 align="center">DevOps & Cloud Engineer | LFCS • KCNA • KCSA Certified</h3>
