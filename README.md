@@ -1,129 +1,185 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm <span style="color:#58A6FF;">Momna Shahid</span> 👋</h1>
-<h3 align="center">DevOps • Cloud • Kubernetes Engineer</h3>
+<h1 align="center">Momna Shahid</h1>
+
+<h3 align="center">
+DevOps Engineer • Cloud Engineer • MLOps Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Infrastructure+Automation;Kubernetes+%7C+Containers+%7C+CI%2FCD;Building+Reliable+and+Scalable+Cloud+Systems" />
+Kubernetes • AWS • Terraform • Airflow • MLflow • DVC • DevSecOps
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I am a **DevOps and Cloud Engineer** focused on building **reliable, scalable, and automated infrastructure** for modern cloud environments.
+I am a DevOps, Cloud, and MLOps Engineer focused on building scalable infrastructure, automating software delivery, and developing reproducible machine learning workflows.
 
-My expertise includes **containerization, Kubernetes orchestration, CI/CD pipelines, Infrastructure as Code, and cloud infrastructure management**. I enjoy designing systems that improve **automation, efficiency, security, and reliability** in software delivery.
+My expertise spans cloud infrastructure, Kubernetes orchestration, Infrastructure as Code, CI/CD automation, workflow orchestration, observability, security, and MLOps. I enjoy designing systems that improve reliability, scalability, automation, and operational efficiency.
 
-With strong foundations in **Linux systems, Kubernetes architecture, and cloud-native technologies**, I focus on implementing DevOps practices that enable teams to build, deploy, and manage applications efficiently.
-
----
-
-## 🏆 Certifications
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Linux%20Foundation-LFCS-blue?logo=linux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kubernetes%20Cloud%20Native%20Associate-KCNA-326ce5?logo=kubernetes&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kubernetes%20Cloud%20Security%20Associate-KCSA-3cb371?logo=kubernetes&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Certified%20Kubernetes%20Application%20Developer-CKAD-326ce5?logo=kubernetes&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-CKA-0A66C2?logo=kubernetes&logoColor=white"/>
-
-</p>
+Currently, I am focused on Cloud Native technologies, Kubernetes, Data Engineering, and MLOps, while building projects that combine DevOps, Cloud Computing, and Machine Learning Operations.
 
 ---
 
-## ⚙️ Technical Skills
+## Certifications
+
+* LFCS – Linux Foundation Certified System Administrator
+* KCNA – Kubernetes and Cloud Native Associate
+* KCSA – Kubernetes and Cloud Native Security Associate
+* CKA – Certified Kubernetes Administrator
+* CKAD – Certified Kubernetes Application Developer
+
+---
+
+## Featured Projects
+
+### Airflow ETL Pipeline with PostgreSQL, NASA APOD API, Astro Cloud, and AWS
+
+Built an end-to-end ETL pipeline using Apache Airflow that extracts data from NASA APOD API, transforms the response, and stores processed records in PostgreSQL. Deployed and orchestrated workflows using Astro Cloud.
+
+**Technologies:** Apache Airflow, PostgreSQL, Astro Cloud, Docker, AWS, Python
+
+---
+
+### End-to-End MLOps Pipeline with DVC, MLflow, and DagsHub
+
+Designed a reproducible machine learning workflow with automated preprocessing, training, and evaluation stages. Implemented experiment tracking, model versioning, and collaboration using MLflow, DVC, and DagsHub.
+
+**Technologies:** MLflow, DVC, DagsHub, Scikit-learn, Python
+
+---
+
+### Multi-Cloud Kubernetes Platform
+
+Provisioned and managed Kubernetes workloads across cloud environments using Infrastructure as Code and GitOps practices.
+
+**Technologies:** Kubernetes, Terraform, Docker, GitHub Actions, AWS
+
+---
+
+## Technical Stack
+
+### Cloud Platforms
+
+* Amazon Web Services (AWS)
+* Microsoft Azure
+* Google Cloud Platform (GCP)
+* IBM Cloud
 
 ### Operating Systems
-- Linux System Administration
-- Shell & Bash Scripting
-- System Performance Monitoring
-- Process & Resource Management
 
-### DevOps & Automation
-- CI/CD Pipeline Design
-- GitHub Actions
-- DevSecOps Practices
-- Infrastructure Automation
-- Configuration Management
-- Automation Workflows
-
-### Cloud Computing
-- Amazon Web Services (AWS)
-- Cloud Infrastructure Architecture
-- Cloud Deployment & Management
-- Multi-Cloud Concepts
+* Linux
+* Ubuntu
+* Shell Scripting
+* Bash
 
 ### Containers & Orchestration
-- Docker
-- Kubernetes
-- Kubernetes Cluster Administration
-- Kubernetes Workload Management
-- Helm
-- Container Networking
+
+* Docker
+* Kubernetes
+* Helm
+* Container Networking
+* Kubernetes Administration
+* Kubernetes Security
 
 ### Infrastructure as Code
-- Terraform
-- Infrastructure Provisioning
-- Automated Environment Deployment
+
+* Terraform
+* Vagrant
+* Infrastructure Automation
+* Environment Provisioning
+
+### DevOps & Automation
+
+* Git
+* GitHub
+* GitHub Actions
+* CI/CD Pipelines
+* DevSecOps
+* Automation Workflows
+* Software Delivery Automation
+
+### Data Engineering
+
+* Apache Airflow
+* ETL Pipelines
+* PostgreSQL
+* Data Processing
+* Workflow Orchestration
+
+### MLOps
+
+* MLflow
+* DVC
+* DagsHub
+* Model Versioning
+* Experiment Tracking
+* Reproducible ML Pipelines
+* ML Lifecycle Management
+
+### Machine Learning
+
+* Scikit-learn
+* Pandas
+* NumPy
+* Machine Learning Fundamentals
+* Model Training and Evaluation
+
+### Programming & Development
+
+* Python
+* Flask
+* REST APIs
+* API Integration
+* Maven
 
 ### Monitoring & Observability
-- Prometheus
-- Grafana
-- OpenTelemetry
-- Metrics, Logs, and Distributed Tracing
-- Observability Architecture
+
+* Prometheus
+* Grafana
+* OpenTelemetry
+* Metrics Monitoring
+* Logging
+* Distributed Tracing
 
 ### Security
-- Kubernetes Security
-- Cloud Security Best Practices
-- Container Security
-- DevSecOps Principles
-- Role-Based Access Control (RBAC)
 
-### Programming & Scripting
-- Python
-- Bash
-- API Integration
-- Automation Scripting
+* Kubernetes Security
+* Cloud Security
+* Container Security
+* DevSecOps
+* RBAC (Role-Based Access Control)
 
-### Artificial Intelligence & Data
-- Machine Learning Fundamentals
-- Natural Language Processing (NLP)
-- AI Operations (AIOps)
-- Model Deployment Concepts
-- Data Analysis Fundamentals
+### Networking
 
-### Version Control & Development Tools
-- Git
-- GitHub
-- VS Code
-- Software Development Workflows
+* TCP/IP
+* DNS
+* Load Balancing
+* Networking Fundamentals
+
+### AI & Automation
+
+* AI Automation
+* AI Agents
+* Prompt Engineering
+* Workflow Automation
+* AIOps Fundamentals
 
 ---
 
-## 🌐 Connect With Me
+## Current Focus
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/momna-shahid">
-<img src="https://img.shields.io/badge/LinkedIn-Momna%20Shahid-0077B5?logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:itsmomna.tech@gmail.com">
-<img src="https://img.shields.io/badge/Email-itsmomna.tech%40gmail.com-D14836?logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/momna-shahid17">
-<img src="https://img.shields.io/badge/GitHub-momna--shahid17-181717?logo=github&logoColor=white"/>
-</a>
-
-</p>
+* Cloud Native Architecture
+* Kubernetes Platform Engineering
+* AWS Infrastructure
+* Data Engineering Pipelines
+* MLOps Platforms
+* DevSecOps Practices
+* AI Infrastructure and Automation
 
 ---
 
-⭐ DevOps • Cloud • Kubernetes
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/momna-shahid
+* GitHub: https://github.com/momna-shahid17
+* Email: [itsmomna.tech@gmail.com](mailto:itsmomna.tech@gmail.com)
