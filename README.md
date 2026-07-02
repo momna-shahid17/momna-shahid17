@@ -30,32 +30,6 @@ Currently, I am focused on Cloud Native technologies, Kubernetes, Data Engineeri
 
 ---
 
-## Featured Projects
-
-### Airflow ETL Pipeline with PostgreSQL, NASA APOD API, Astro Cloud, and AWS
-
-Built an end-to-end ETL pipeline using Apache Airflow that extracts data from NASA APOD API, transforms the response, and stores processed records in PostgreSQL. Deployed and orchestrated workflows using Astro Cloud.
-
-**Technologies:** Apache Airflow, PostgreSQL, Astro Cloud, Docker, AWS, Python
-
----
-
-### End-to-End MLOps Pipeline with DVC, MLflow, and DagsHub
-
-Designed a reproducible machine learning workflow with automated preprocessing, training, and evaluation stages. Implemented experiment tracking, model versioning, and collaboration using MLflow, DVC, and DagsHub.
-
-**Technologies:** MLflow, DVC, DagsHub, Scikit-learn, Python
-
----
-
-### Multi-Cloud Kubernetes Platform
-
-Provisioned and managed Kubernetes workloads across cloud environments using Infrastructure as Code and GitOps practices.
-
-**Technologies:** Kubernetes, Terraform, Docker, GitHub Actions, AWS
-
----
-
 ## Technical Stack
 
 ### Cloud Platforms
